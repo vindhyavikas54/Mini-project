@@ -1,1 +1,1 @@
-# Mini-project
+"Developed a machine learning model for the early detection of PCOS, analyzing patient data to identify potential risk factors. Achieved improved accuracy in early diagnosis through feature selection and predictive analysis."
